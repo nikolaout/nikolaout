@@ -21,26 +21,27 @@ I value clear APIs, reliable data flows, tests, and production-minded engineerin
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>🐍 Python & APIs</h3>
-      <code>Python</code> · <code>FastAPI</code><br>
-      <code>REST APIs</code> · <code>API integrations</code><br>
-      <code>WebSockets</code> · <code>SSE</code><br>
-      <code>Async workflows</code>
+    <td width="50%" valign="top">
+      <h3>🐍 Python backends & APIs</h3>
+      Build API services and integrations that are clear to use, easy to extend, and dependable in production.<br><br>
+      <code>Python</code> · <code>FastAPI</code> · <code>REST</code> · <code>WebSockets</code> · <code>SSE</code>
     </td>
-    <td width="33%" valign="top">
-      <h3>🕸️ Scraping & Data</h3>
-      <code>Web scraping</code> · <code>Data extraction</code><br>
-      <code>HTTP clients</code> · <code>HTML parsing</code><br>
-      <code>Browser automation</code><br>
-      <code>Traffic inspection</code>
+    <td width="50%" valign="top">
+      <h3>🕷️ Scraping & data workflows</h3>
+      Collect, parse, and structure web data with resilient HTTP clients, browser automation, and repeatable pipelines.<br><br>
+      <code>Data extraction</code> · <code>HTML parsing</code> · <code>HTTP</code> · <code>Browser automation</code>
     </td>
-    <td width="33%" valign="top">
-      <h3>🛠️ Delivery & Tooling</h3>
-      <code>pytest</code> · <code>Git</code><br>
-      <code>GitHub Actions</code> · <code>Docker</code><br>
-      <code>Linux</code> · <code>Automation</code><br>
-      <code>Developer tools</code>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automation & developer tools</h3>
+      Turn repetitive development and operational work into simple, reproducible tools and workflows.<br><br>
+      <code>Automation</code> · <code>Developer tools</code> · <code>Traffic inspection</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Delivery & reliability</h3>
+      Keep projects maintainable with tests, CI, containers, and a practical production mindset.<br><br>
+      <code>pytest</code> · <code>GitHub Actions</code> · <code>Docker</code> · <code>Linux</code>
     </td>
   </tr>
 </table>
