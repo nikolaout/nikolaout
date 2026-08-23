@@ -4,40 +4,43 @@
 
 ### Backend & Automation Developer
 
-**Python · APIs · Automation · Docker · Data · Developer Tools**
+**Python · APIs · Scraping · Automation · Docker · Developer Tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@nikolaout-181717?style=flat-square&logo=github)](https://github.com/nikolaout)
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Automation-2563eb?style=flat-square)
 ![Open to OSS](https://img.shields.io/badge/Open%20to-OSS%20contributions-16a34a?style=flat-square)
 
-I build reliable backend systems, automation workflows, developer tools, and data-oriented services.<br>
-I value small reviewable PRs, clear APIs, tests, and production reliability.
+I build Python backend services, API integrations, scraping workflows, and developer tools.<br>
+I value clear APIs, reliable data flows, tests, and production-minded engineering.
 
 </div>
 
 ---
 
-## What I work with
+## Core expertise
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>⚙️ Backend</h3>
+      <h3>🐍 Python & APIs</h3>
       <code>Python</code> · <code>FastAPI</code><br>
-      <code>REST APIs</code> · <code>WebSockets</code><br>
+      <code>REST APIs</code> · <code>API integrations</code><br>
+      <code>WebSockets</code> · <code>SSE</code><br>
       <code>Async workflows</code>
     </td>
     <td width="33%" valign="top">
-      <h3>🛠️ Tooling</h3>
-      <code>pytest</code> · <code>Git</code><br>
-      <code>GitHub Actions</code><br>
-      <code>Docker</code> · <code>Linux</code>
+      <h3>🕸️ Scraping & Data</h3>
+      <code>Web scraping</code> · <code>Data extraction</code><br>
+      <code>HTTP clients</code> · <code>HTML parsing</code><br>
+      <code>Browser automation</code><br>
+      <code>Traffic inspection</code>
     </td>
     <td width="33%" valign="top">
-      <h3>🔎 Domains</h3>
-      <code>Automation</code> · <code>Scraping</code><br>
-      <code>Developer tools</code><br>
-      <code>AI integrations</code>
+      <h3>🛠️ Delivery & Tooling</h3>
+      <code>pytest</code> · <code>Git</code><br>
+      <code>GitHub Actions</code> · <code>Docker</code><br>
+      <code>Linux</code> · <code>Automation</code><br>
+      <code>Developer tools</code>
     </td>
   </tr>
 </table>
@@ -64,24 +67,19 @@ I value small reviewable PRs, clear APIs, tests, and production reliability.
   </tr>
 </table>
 
-## How I approach OSS issues
-
-```text
-read issue  →  verify context  →  minimal implementation  →  tests/checks  →  review feedback
-```
+## What I build
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">🎯 <b>Focused diffs</b><br><sub>No unrelated refactors</sub></td>
-    <td width="25%" valign="top">🧪 <b>Verification</b><br><sub>Tests, lint, or build when relevant</sub></td>
-    <td width="25%" valign="top">⚡ <b>Fast iteration</b><br><sub>Clear response to review feedback</sub></td>
-    <td width="25%" valign="top">📦 <b>Production-minded</b><br><sub>Maintainability and compatibility first</sub></td>
+    <td width="33%" valign="top">⚡ <b>Backend services</b><br><sub>FastAPI applications, REST endpoints, integrations, and real-time API features.</sub></td>
+    <td width="33%" valign="top">🕷️ <b>Scraping workflows</b><br><sub>Data extraction, browser automation, and repeatable collection pipelines.</sub></td>
+    <td width="33%" valign="top">🧰 <b>Developer tools</b><br><sub>Automation that makes local workflows, testing, and troubleshooting faster.</sub></td>
   </tr>
 </table>
 
 ## Best-fit issues
 
-`Python` · `TypeScript` · `REST APIs` · `Automation` · `Docker` · `Testing` · `Scraping` · `Developer Tooling`
+`Python` · `FastAPI` · `REST APIs` · `API integrations` · `Scraping` · `Automation` · `Docker` · `Testing`
 
 <div align="center">
 
