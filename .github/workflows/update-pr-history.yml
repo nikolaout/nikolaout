@@ -1,0 +1,35 @@
+name: Update PR history
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh recent pull requests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_HISTORY_USERNAME: nikolaout
+        run: python .github/scripts/update_pr_history.py
+
+      - name: Commit updated history
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No profile update needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update recent pull requests"
+          git push

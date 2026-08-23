@@ -52,6 +52,16 @@ I value clear APIs, reliable data flows, tests, and production-minded engineerin
 - **[pytest-alerts](https://github.com/nikolaout/pytest-alerts)** — pytest plugin for Slack and Telegram test-run notifications. <code>Python</code> <code>pytest</code> <code>CI/CD</code>
 - **[docker_browser](https://github.com/nikolaout/docker_browser)** — Docker-based browser automation and reproducible runtime workflows. <code>Docker</code> <code>Python</code> <code>Automation</code>
 
+## Recent pull requests
+
+<!-- PR_HISTORY_START -->
+- 🟢 [Add Outscraper MCP server](https://github.com/docker/mcp-registry/pull/2788) — `docker/mcp-registry` · open
+- ✅ [google maps enrichments](https://github.com/outscraper/n8n-nodes-outscraper/pull/3) — `outscraper/n8n-nodes-outscraper` · merged
+- ✅ [fix](https://github.com/outscraper/n8n-nodes-outscraper/pull/1) — `outscraper/n8n-nodes-outscraper` · merged
+
+[View all pull requests](https://github.com/search?q=author%3Anikolaout%20is%3Apr&type=pullrequests)
+<!-- PR_HISTORY_END -->
+
 ## What I build
 
 <table width="100%">
