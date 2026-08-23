@@ -48,25 +48,9 @@ I value clear APIs, reliable data flows, tests, and production-minded engineerin
 
 ## Selected work
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/nikolaout/clitracker">CLI Tracker</a></h3>
-      FastAPI + mitmproxy dashboard for inspecting local AI-client traffic.<br><br>
-      <code>FastAPI</code> <code>WebSockets</code> <code>SSE</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/nikolaout/pytest-alerts">pytest-alerts</a></h3>
-      pytest plugin for Slack and Telegram test-run notifications.<br><br>
-      <code>Python</code> <code>pytest</code> <code>CI/CD</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/nikolaout/docker_browser">docker_browser</a></h3>
-      Docker-based browser automation and reproducible runtime workflows.<br><br>
-      <code>Docker</code> <code>Python</code> <code>Automation</code>
-    </td>
-  </tr>
-</table>
+- **[CLI Tracker](https://github.com/nikolaout/clitracker)** — FastAPI + mitmproxy dashboard for inspecting local AI-client traffic. <code>FastAPI</code> <code>WebSockets</code> <code>SSE</code>
+- **[pytest-alerts](https://github.com/nikolaout/pytest-alerts)** — pytest plugin for Slack and Telegram test-run notifications. <code>Python</code> <code>pytest</code> <code>CI/CD</code>
+- **[docker_browser](https://github.com/nikolaout/docker_browser)** — Docker-based browser automation and reproducible runtime workflows. <code>Docker</code> <code>Python</code> <code>Automation</code>
 
 ## What I build
 
