@@ -55,9 +55,11 @@ I value clear APIs, reliable data flows, useful AI features, tests, and producti
 ## Recent pull requests
 
 <!-- PR_HISTORY_START -->
+- 🟢 [fix(windows): harden Control Center installation](https://github.com/duolahypercho/codex-router/pull/436) — `duolahypercho/codex-router` · open
+- ✅ [Announce dashboard toggle states to assistive technology](https://github.com/nikolaout/clitracker/pull/3) — `nikolaout/clitracker` · merged
+- ✅ [Fix Catch-all mode persistence](https://github.com/nikolaout/clitracker/pull/2) — `nikolaout/clitracker` · merged
+- 🟢 [fix: add configured frontend static directory](https://github.com/hexlet-volunteers/tg-marketing-service/pull/505) — `hexlet-volunteers/tg-marketing-service` · open
 - 🟢 [Add Outscraper MCP server](https://github.com/docker/mcp-registry/pull/2788) — `docker/mcp-registry` · open
-- ✅ [google maps enrichments](https://github.com/outscraper/n8n-nodes-outscraper/pull/3) — `outscraper/n8n-nodes-outscraper` · merged
-- ✅ [fix](https://github.com/outscraper/n8n-nodes-outscraper/pull/1) — `outscraper/n8n-nodes-outscraper` · merged
 
 [View all pull requests](https://github.com/search?q=author%3Anikolaout%20is%3Apr&type=pullrequests)
 <!-- PR_HISTORY_END -->
