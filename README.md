@@ -2,16 +2,16 @@
 
 # Mykola Tarasiuk
 
-### Backend & Automation Developer
+### Backend, AI & Automation Developer
 
-**Python · APIs · Scraping · Automation · Docker · Developer Tools**
+**Python · APIs · AI Integration · Scraping · Automation · Docker · Developer Tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@nikolaout-181717?style=flat-square&logo=github)](https://github.com/nikolaout)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Automation-2563eb?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%C2%B7%20AI%20%C2%B7%20Automation-2563eb?style=flat-square)
 ![Open to OSS](https://img.shields.io/badge/Open%20to-OSS%20contributions-16a34a?style=flat-square)
 
-I build Python backend services, API integrations, scraping workflows, and developer tools.<br>
-I value clear APIs, reliable data flows, tests, and production-minded engineering.
+I build Python backend services, practical AI integrations, scraping workflows, and developer tools.<br>
+I value clear APIs, reliable data flows, useful AI features, tests, and production-minded engineering.
 
 </div>
 
@@ -34,9 +34,9 @@ I value clear APIs, reliable data flows, tests, and production-minded engineerin
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Automation & developer tools</h3>
-      Turn repetitive development and operational work into simple, reproducible tools and workflows.<br><br>
-      <code>Automation</code> · <code>Developer tools</code> · <code>Traffic inspection</code>
+      <h3>🤖 AI integration & automation</h3>
+      Connect LLMs to product data and workflows with structured results, retrieval, tool calling, and human handoff where it matters.<br><br>
+      <code>LLM APIs</code> · <code>RAG</code> · <code>Embeddings</code> · <code>Function calling</code> · <code>Automation</code>
     </td>
     <td width="50%" valign="top">
       <h3>🧪 Delivery & reliability</h3>
@@ -68,13 +68,13 @@ I value clear APIs, reliable data flows, tests, and production-minded engineerin
   <tr>
     <td width="33%" valign="top">⚡ <b>Backend services</b><br><sub>FastAPI applications, REST endpoints, integrations, and real-time API features.</sub></td>
     <td width="33%" valign="top">🕷️ <b>Scraping workflows</b><br><sub>Data extraction, browser automation, and repeatable collection pipelines.</sub></td>
-    <td width="33%" valign="top">🧰 <b>Developer tools</b><br><sub>Automation that makes local workflows, testing, and troubleshooting faster.</sub></td>
+    <td width="33%" valign="top">🤖 <b>AI-enabled workflows</b><br><sub>Assistants, knowledge search, and document processing connected to real product data.</sub></td>
   </tr>
 </table>
 
 ## Best-fit issues
 
-`Python` · `FastAPI` · `REST APIs` · `API integrations` · `Scraping` · `Automation` · `Docker` · `Testing`
+`Python` · `FastAPI` · `REST APIs` · `AI integrations` · `LLM APIs` · `RAG` · `Scraping` · `Automation` · `Docker` · `Testing`
 
 <div align="center">
 
