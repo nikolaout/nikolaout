@@ -55,8 +55,8 @@ I value clear APIs, reliable data flows, useful AI features, tests, and producti
 ## Recent pull requests
 
 <!-- PR_HISTORY_START -->
-- 🟢 [fix(desktop): poll health without spawning processes](https://github.com/duolahypercho/codex-router/pull/437) — `duolahypercho/codex-router` · open
-- 🟢 [fix(windows): harden Control Center installation](https://github.com/duolahypercho/codex-router/pull/436) — `duolahypercho/codex-router` · open
+- ⚪ [fix(desktop): poll health without spawning processes](https://github.com/duolahypercho/codex-router/pull/437) — `duolahypercho/codex-router` · closed
+- ✅ [fix(windows): harden Control Center installation](https://github.com/duolahypercho/codex-router/pull/436) — `duolahypercho/codex-router` · merged
 - ✅ [Announce dashboard toggle states to assistive technology](https://github.com/nikolaout/clitracker/pull/3) — `nikolaout/clitracker` · merged
 - ✅ [Fix Catch-all mode persistence](https://github.com/nikolaout/clitracker/pull/2) — `nikolaout/clitracker` · merged
 - 🟢 [fix: add configured frontend static directory](https://github.com/hexlet-volunteers/tg-marketing-service/pull/505) — `hexlet-volunteers/tg-marketing-service` · open
